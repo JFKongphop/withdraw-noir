@@ -1,2 +1,6 @@
-x = "1"
-y = "2"
+secret = ["1", "2"]
+loan_amount = "90"
+nullifier = "0x246d91b03e0f34c9ac7da708bd845c718636fb678a8a6e53cd216d47779fb3f6"
+path_elements = ["3", "4"]
+path_indices = ["0", "1"]
+root = "0x2ce8b375b140e5bbf59439f12823c5cca475ee2c79d7581aed92ff8a0dd20fb1"
